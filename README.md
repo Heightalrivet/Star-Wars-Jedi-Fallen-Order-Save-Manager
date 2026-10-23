@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Star-Wars-Jedi-Fallen-Order-Save-Manager` · Updated: 2026-10-07
+`Star-Wars-Jedi-Fallen-Order-Save-Manager` · Updated: 2026-10-24
 
 **Tags:** `jedi-fallen-order` `save-manager` `star-wars` `action-rpg`
